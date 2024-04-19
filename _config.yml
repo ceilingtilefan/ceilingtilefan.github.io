@@ -21,7 +21,7 @@
 title: bigfloppa234's blog
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi, welcome to my super cool blog. I like the Apple TV 1.
+  Hi
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bigfloppa234.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  bigfloppa234
