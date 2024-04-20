@@ -18,7 +18,7 @@ download [atv-xbmc.img](https://www.tommycoolman.com/files/atv-xbmc.img) and fla
 mount the partitioned labeled **PATCHSTICK** and replace `patchstick.sh` with my modified [patchstick.sh](https://raw.githubusercontent.com/bigfloppa234/atv-tomfoolery/main/patchstick.sh)
 
 ### step 4:
-flash a Debian 12 installer to your other USB stick (Ethernet does not work during setup, you must use a complete Debian installer. A direct download link is provided below)
+flash a Debian 12 installer to your other USB stick (Ethernet does not work during setup, you must use a complete Debian installer. A direct download link is provided below)\
 [debian-12.5.0-i386-DVD-1.iso](https://cdimage.debian.org/debian-cd/current/i386/iso-dvd/debian-12.5.0-i386-DVD-1.iso) 
 
 ### step 5:
