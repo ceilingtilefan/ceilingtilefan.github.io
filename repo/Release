@@ -1,0 +1,8 @@
+Origin: bigfloppa234
+Label: bigfloppa234's repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: bigfloppa234's super cool repo
