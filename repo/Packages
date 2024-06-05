@@ -1,3 +1,35 @@
+Package: com.bigfloppa234.freeshep
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: bigfloppa234
+Installed-Size: 168
+Depends: com.icraze.rune
+Filename: ./debs/com.bigfloppa234.freeshep_1.0_iphoneos-arm.deb
+Size: 3564
+MD5sum: be71930a2db4ea15a44750068de1e7bc
+SHA1: 5150139839b7356820ab7a060417054ef2740951
+SHA256: 6f770ec40965b6d72d03e8102bce789a44122a456c248881b6d08939c398e2f6
+Section: Rune Plugins
+Description: #freeshep
+Author: bigfloppa234
+Name: freeshep
+
+Package: com.bigfloppa234.freeshep
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: bigfloppa234
+Installed-Size: 168
+Depends: com.icraze.rune
+Filename: ./debs/com.bigfloppa234.freeshep_1.0_iphoneos-arm64.deb
+Size: 3614
+MD5sum: 21bbd3031d579677895adc783ec03557
+SHA1: 412cdbe9ce42cfc6afbde43b9c20f4542a828f00
+SHA256: d1d4890714d9ec4a7c9e9d631d2d72f35026e892dcf7bef9ed6246b34ef2220c
+Section: Rune Plugins
+Description: #freeshep
+Author: bigfloppa234
+Name: freeshep
+
 Package: com.meowcraze.meow
 Version: 1.0-1+debug
 Architecture: iphoneos-arm
