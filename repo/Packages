@@ -30,7 +30,7 @@ Size: 3564
 MD5sum: be71930a2db4ea15a44750068de1e7bc
 SHA1: 5150139839b7356820ab7a060417054ef2740951
 SHA256: 6f770ec40965b6d72d03e8102bce789a44122a456c248881b6d08939c398e2f6
-Section: Tweaks
+Section: Rune Plugins
 Description: #freeshep
 Author: bigfloppa234
 Name: freeshep
@@ -78,7 +78,7 @@ Size: 4266
 MD5sum: d44a89f6c9a30a5d172e0949b8f11533
 SHA1: cfeba55fee371e39eeef46f71e490508468fb72c
 SHA256: f4cba6612e181be1b07e4d6ef96e8a8656050da61755408ee0d16bf138347a6c
-Section: TweRune Pluginsaks
+Section: Rune Plugins
 Description: meow
 Author: meowcraze
 Name: meow
