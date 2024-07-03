@@ -83,18 +83,3 @@ Description: meow
 Author: meowcraze
 Name: meow
 
-Package: derootifierdepends
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: WhitetailAni <joemama@thanos.lol>
-Depends: dpkg, file, fakeroot, odcctools, ldid
-Filename: ./debs/com.whitetailani.derootifierdepends_1.0_iphoneos-arm64.deb
-Size: 646
-MD5sum: 24108b5610214b6c5f9c53613729e0ee
-SHA1: cdce93b93130466740c616a99d82ba0193e9090d
-SHA256: 6562c3b008a3ab500b0a34845df6fff90bf4a35d433d28bb612c86b0ce12fb11
-Section: Utilities
-Priority: required
-Description: Installs Derootifier dependencies for you
-Name: DerootifierDepends
-
