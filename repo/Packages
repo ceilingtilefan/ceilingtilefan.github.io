@@ -30,7 +30,7 @@ Size: 3564
 MD5sum: be71930a2db4ea15a44750068de1e7bc
 SHA1: 5150139839b7356820ab7a060417054ef2740951
 SHA256: 6f770ec40965b6d72d03e8102bce789a44122a456c248881b6d08939c398e2f6
-Section: Rune Plugins
+Section: Tweaks
 Description: #freeshep
 Author: bigfloppa234
 Name: freeshep
@@ -46,7 +46,7 @@ Size: 3614
 MD5sum: 21bbd3031d579677895adc783ec03557
 SHA1: 412cdbe9ce42cfc6afbde43b9c20f4542a828f00
 SHA256: d1d4890714d9ec4a7c9e9d631d2d72f35026e892dcf7bef9ed6246b34ef2220c
-Section: Rune Plugins
+Section: Tweaks
 Description: #freeshep
 Author: bigfloppa234
 Name: freeshep
@@ -62,7 +62,7 @@ Size: 4274
 MD5sum: f0c5e8b7df231ad8cdcd6d1f64e2194d
 SHA1: bfa147a11789a2b503b6f7d3acc0a91da4563031
 SHA256: 49344bd58fc12460db0c3a5db8d2e98018194ca6a0bd7eb4f08796dddfc9dd19
-Section: Rune Plugins
+Section: Tweaks
 Description: meow
 Author: meowcraze
 Name: meow
@@ -78,7 +78,23 @@ Size: 4266
 MD5sum: d44a89f6c9a30a5d172e0949b8f11533
 SHA1: cfeba55fee371e39eeef46f71e490508468fb72c
 SHA256: f4cba6612e181be1b07e4d6ef96e8a8656050da61755408ee0d16bf138347a6c
-Section: Rune Plugins
+Section: Tweaks
+Description: meow
+Author: meowcraze
+Name: meow
+
+Package: com.meowcraze.meow
+Version: 1.0-3+debug
+Architecture: iphoneos-arm64
+Maintainer: meowcraze
+Installed-Size: 168
+Depends: com.icraze.rune
+Filename: ./debs/com.meowcraze.meow_1.0-3+debug_iphoneos-arm64.deb
+Size: 4336
+MD5sum: 488af2d7b6e38821c2bdb902ffaeeb81
+SHA1: 848f4061bb13b1dbd290548a783fdc9064676f00
+SHA256: 0895cf8dee6025099867c50284588ce3be179df362e7d522cb567cfdd9b31070
+Section: Tweaks
 Description: meow
 Author: meowcraze
 Name: meow
