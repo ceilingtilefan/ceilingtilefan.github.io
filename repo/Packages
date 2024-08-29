@@ -51,6 +51,21 @@ Description: #freeshep
 Author: bigfloppa234
 Name: freeshep
 
+Package: com.korfi8267.ioffice
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Korfi8267
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: ./debs/com.korfi8267.ioffice_1.0.1_iphoneos-arm.deb
+Size: 17935612
+MD5sum: de666fa351650168144de50b10a4ce59
+SHA1: b61b1568c36e838ef5153b47181629523dfd13ab
+SHA256: c21954cb1d16fe7094da5c3daabf0defcadf28f9c9193d01307ac29b88855faf
+Section: Themes
+Description: "Productivity never felt this good. (Note: This theme is deprecated indefinitely. As of right now, the author has no plans to update it.)"
+Author: Korfi8267
+Name: iOffice
+
 Package: com.meowcraze.meow
 Version: 1.0-1+debug
 Architecture: iphoneos-arm
