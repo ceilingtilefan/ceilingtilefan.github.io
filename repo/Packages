@@ -51,6 +51,36 @@ Description: #freeshep
 Author: bigfloppa234
 Name: freeshep
 
+Package: com.furawa.parousia
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: Samara (ssalggnikool)
+Depends: com.spark.snowboard | com.anemonetheming.anemone3
+Filename: ./debs/com.furawa.parousia_1.5_iphoneos-arm64.deb
+Size: 8841528
+MD5sum: a55c6a4fb6995ef2c810794ed89a07b4
+SHA1: bf522c5d30bab9548828419524c548405b60472c
+SHA256: a848ccea0b0d7d1d8ba540787db885079d195cf5c5d2f512204cae90c167da2c
+Section: Themes
+Description: Colorful theme for everyone!
+Author: Samara (ssalggnikool)
+Name: Parousia
+
+Package: com.furawa.parousia
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: Samara (ssalggnikool)
+Depends: com.spark.snowboard | com.anemonetheming.anemone3
+Filename: ./debs/com.furawa.parousia_1.5_iphoneos-arm.deb
+Size: 8840244
+MD5sum: 89f4dca054399455d92e09a3d8c1a2e7
+SHA1: f6b693d96923e36c1c98dd813947b0a517657ec8
+SHA256: e204be07a5f8684af6bf4cc12b7316e2741e9f9f03881bf7e24fbfade509872a
+Section: Themes
+Description: Colorful theme for everyone!
+Author: Samara (ssalggnikool)
+Name: Parousia
+
 Package: com.korfi8267.ioffice
 Version: 1.0.1
 Architecture: iphoneos-arm
