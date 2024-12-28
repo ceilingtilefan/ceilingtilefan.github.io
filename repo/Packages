@@ -19,38 +19,6 @@ Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
 Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
 Name: AppSync Unified
 
-Package: com.bigfloppa234.freeshep
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: bigfloppa234
-Installed-Size: 168
-Depends: com.icraze.rune
-Filename: ./debs/com.bigfloppa234.freeshep_1.0_iphoneos-arm.deb
-Size: 3564
-MD5sum: be71930a2db4ea15a44750068de1e7bc
-SHA1: 5150139839b7356820ab7a060417054ef2740951
-SHA256: 6f770ec40965b6d72d03e8102bce789a44122a456c248881b6d08939c398e2f6
-Section: Tweaks
-Description: #freeshep
-Author: bigfloppa234
-Name: freeshep
-
-Package: com.bigfloppa234.freeshep
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: bigfloppa234
-Installed-Size: 168
-Depends: com.icraze.rune
-Filename: ./debs/com.bigfloppa234.freeshep_1.0_iphoneos-arm64.deb
-Size: 3614
-MD5sum: 21bbd3031d579677895adc783ec03557
-SHA1: 412cdbe9ce42cfc6afbde43b9c20f4542a828f00
-SHA256: d1d4890714d9ec4a7c9e9d631d2d72f35026e892dcf7bef9ed6246b34ef2220c
-Section: Tweaks
-Description: #freeshep
-Author: bigfloppa234
-Name: freeshep
-
 Package: com.furawa.parousia
 Version: 1.5
 Architecture: iphoneos-arm64
@@ -92,55 +60,70 @@ MD5sum: de666fa351650168144de50b10a4ce59
 SHA1: b61b1568c36e838ef5153b47181629523dfd13ab
 SHA256: c21954cb1d16fe7094da5c3daabf0defcadf28f9c9193d01307ac29b88855faf
 Section: Themes
-Description: "Productivity never felt this good. (Note: This theme is deprecated indefinitely. As of right now, the author has no plans to update it.)"
+Description: Productivity never felt this good.
 Author: Korfi8267
 Name: iOffice
 
-Package: com.meowcraze.meow
-Version: 1.0-1+debug
-Architecture: iphoneos-arm
-Maintainer: meowcraze
-Installed-Size: 168
-Depends: com.icraze.rune
-Filename: ./debs/com.meowcraze.meow_1.0-1+debug_iphoneos-arm.deb
-Size: 4274
-MD5sum: f0c5e8b7df231ad8cdcd6d1f64e2194d
-SHA1: bfa147a11789a2b503b6f7d3acc0a91da4563031
-SHA256: 49344bd58fc12460db0c3a5db8d2e98018194ca6a0bd7eb4f08796dddfc9dd19
-Section: Tweaks
-Description: meow
-Author: meowcraze
-Name: meow
-
-Package: com.meowcraze.meow
-Version: 1.0-2+debug
-Architecture: iphoneos-arm
-Maintainer: meowcraze
-Installed-Size: 168
-Depends: com.icraze.rune
-Filename: ./debs/com.meowcraze.meow_1.0-2+debug_iphoneos-arm.deb
-Size: 4266
-MD5sum: d44a89f6c9a30a5d172e0949b8f11533
-SHA1: cfeba55fee371e39eeef46f71e490508468fb72c
-SHA256: f4cba6612e181be1b07e4d6ef96e8a8656050da61755408ee0d16bf138347a6c
-Section: Tweaks
-Description: meow
-Author: meowcraze
-Name: meow
-
-Package: com.meowcraze.meow
-Version: 1.0-3+debug
+Package: derootifierdepends
+Version: 1.0
 Architecture: iphoneos-arm64
-Maintainer: meowcraze
-Installed-Size: 168
-Depends: com.icraze.rune
-Filename: ./debs/com.meowcraze.meow_1.0-3+debug_iphoneos-arm64.deb
-Size: 4336
-MD5sum: 488af2d7b6e38821c2bdb902ffaeeb81
-SHA1: 848f4061bb13b1dbd290548a783fdc9064676f00
-SHA256: 0895cf8dee6025099867c50284588ce3be179df362e7d522cb567cfdd9b31070
-Section: Tweaks
-Description: meow
-Author: meowcraze
-Name: meow
+Maintainer: WhitetailAni <joemama@thanos.lol>
+Depends: dpkg, file, fakeroot, odcctools, ldid
+Filename: ./debs/com.whitetailani.derootifierdepends_1.0_iphoneos-arm64.deb
+Size: 646
+MD5sum: 24108b5610214b6c5f9c53613729e0ee
+SHA1: cdce93b93130466740c616a99d82ba0193e9090d
+SHA256: 6562c3b008a3ab500b0a34845df6fff90bf4a35d433d28bb612c86b0ce12fb11
+Section: Utilities
+Priority: required
+Description: Installs Derootifier dependencies for you
+Name: DerootifierDepends
+
+Package: net.tihmstar.untetherhomedepot
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: WhitetailAni <joemama@thanos.lol>
+Depends: firmware (>= 9.1), firmware (<= 9.3.4)
+Conflicts: cy+cpu.arm64
+Replaces: net.tihmstar.betterhomedepot
+Filename: ./debs/net.tihmstar.untetherhomedepot_1.5_iphoneos-arm.deb
+Size: 23316
+MD5sum: cbc91037b755cad872abfea4d7c15f4e
+SHA1: cc72e0ca2d445c059a272fc18f524348093b2549
+SHA256: 5746573359fe7e245158d8c5c8fbf0faa353dead820452378548094bcffc4556
+Section: System
+Priority: optional
+Description: Untether for 9.1-9.3.4 32bit
+ <br>
+ UntetherHomeDepo is an untether package for 32bit devices running 9.1-9.3.4
+ <p>It exploits the Pegasus jsc bug and bootstraps HomeDepot jailbreak.
+ <br>KNOWN BUGS:
+ <p>openssh daemon doesn't start
+ <br>
+ CHANGELOG:
+ <p>v1.5 uses stek29 community offsets to support all devices and iOS versions out of the box
+ <p>v1.4 added support for 9.2.1
+ <p>     Refusing to install when stage1 doesn't work (to prevent bootloops)
+ <p>v1.3 fixed lwvm patch (bug where 9.3.1 rootfs was ro)
+ <p>v1.2 fixed a bug where having a passcode would disable untether
+ <p>v1.1 fixed deepsleep bug
+ Features:
+ Logging is disabled by default, however you can enable it by creating a file at
+ <p>/var/logs/untetherhomedepot.log (MAKE SURE TO "chmod +w"!!!)
+ <br>
+ <p>Also there is an attempt of making a "bootloop protection"
+ <p>At boot a file is created at /var/logs/untetherhomedepotLoopProtection.txt
+ <p>which contains the number of times the exploit failed.
+ <p>If the number exceeds "10" then the untether boots without executing the kernelexploit.
+ <p>On every successfull boot the file is deleted.
+ <p>If you want to deactivate untether then run:
+ <p>"echo '10' > /var/logs/untetherhomedepotLoopProtection.txt"
+ <br>
+ The offsets file has been replaced with the community offsets from stek29, it should not need to be replaced manually.
+ <br>
+ FINAL WARNING:
+ <p>INSTALL AT YOUR OWN RISK!!!!!
+Author: tihmstar
+Dev: tihmstar
+Name: UntetherHomeDepot
 
