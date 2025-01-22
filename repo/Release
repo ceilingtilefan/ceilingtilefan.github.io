@@ -1,8 +1,8 @@
-Origin: ceilingtilefan's repo
-Label: ceilingtilefan's repo
+Origin: Maxine's Repo
+Label: Maxine's Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: ceilingtilefan's super cool repo
+Description: Maxine's super awesome repo 
