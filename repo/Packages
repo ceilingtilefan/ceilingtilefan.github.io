@@ -79,6 +79,26 @@ Priority: required
 Description: Installs Derootifier dependencies for you
 Name: DerootifierDepends
 
+Package: net.angelxwind.appsync40plus
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Pre-Depends: firmware (>= 4.0), firmware (<< 5.0)
+Conflicts: us.hackulo.appsync40, us.hackulo.appsync41, us.hackulo.appsync42
+Replaces: us.hackulo.appsync40, us.hackulo.appsync41, us.hackulo.appsync42
+Provides: appsync, us.hackulo.appsync40, us.hackulo.appsync41, us.hackulo.appsync42
+Filename: ./debs/net.angelxwind.appsync40plus.deb
+Size: 9202
+MD5sum: 4450d7c556bdf0504b14d678da5e5362
+SHA1: 7b0040049afef1d0309c108bcf0a7ed9d19921d4
+SHA256: 0d20fd163cfa37f4e63f054516d9b7c0f68801cf517594dbe2145faf50c5c8a7
+Section: Tweaks
+Homepage: https://cydia.akemi.ai/
+Description: AppSync for iOS 4 allows you to sync and install unsigned iOS applications. Only for iOS 4.
+Author: Karen/あけみ, Dissident <karen@akemi.ai>
+Depiction: https://cydia.akemi.ai/?page/net.angelxwind.appsync40plus
+Name: AppSync for iOS 4.0
+
 Package: net.tihmstar.untetherhomedepot
 Version: 1.5
 Architecture: iphoneos-arm
