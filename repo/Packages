@@ -64,6 +64,512 @@ Description: Productivity never felt this good.
 Author: Korfi8267
 Name: iOffice
 
+Package: com.nightwind.cleanerdownloadedmusic
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Nightwind
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nightwind.cleanerdownloadedmusic_0.0.1_iphoneos-arm64.deb
+Size: 6214
+MD5sum: ce8cf62cc5778773abcfde55cf503f18
+SHA1: ce61dbbb305fd9b21d372cd13524abc22194d13e
+SHA256: c86e7ef52f9de065f90cdcca28bcb0a9a71e655583b01b9bdebc6aa41985d7b2
+Section: Tweaks
+Description: Clean up the downloaded music cells in the Apple Music app.
+Author: Nightwind
+Name: CleanerDownloadedMusic
+
+Package: com.nightwind.cleanerdownloadedmusic
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Nightwind
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nightwind.cleanerdownloadedmusic_0.0.1_iphoneos-arm.deb
+Size: 6138
+MD5sum: 9df56d493961600585c59b3bb3a8c460
+SHA1: a6af47898a3579e13023d574d8bcf5e3902d1b43
+SHA256: aa6ecdf16e665a420b815b6377850e0a9c29675dcb628a5d32605dec3c4b9d0d
+Section: Tweaks
+Description: Clean up the downloaded music cells in the Apple Music app.
+Author: Nightwind
+Name: CleanerDownloadedMusic
+
+Package: com.nightwind.folderartworkremade
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Nightwind
+Installed-Size: 552
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nightwind.folderartworkremade_0.0.1_iphoneos-arm.deb
+Size: 170264
+MD5sum: 575a88aa4493c41479e19acc7c25aa23
+SHA1: e28f8c04a4dce896219d720199bff4b347452e91
+SHA256: e43def9a54a216db2bd2524aa1dcade44e2473c9b948048750169cd21ac542d5
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Nightwind
+Name: FolderArtwork Remade
+
+Package: com.nightwind.folderartworkremade
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Nightwind
+Installed-Size: 552
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nightwind.folderartworkremade_0.0.1_iphoneos-arm64.deb
+Size: 170414
+MD5sum: 657c29fb3fc060f7f996f57fdc724ebc
+SHA1: eba6b583e30cf24416d4e3e5e265d4a358248cfb
+SHA256: 2406ef17fda885679fe8069f7f9b7d6500a77a1335d8f12c77f9659976c076f3
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Nightwind
+Name: FolderArtwork Remade
+
+Package: com.nightwind.folderartworkremade
+Version: 0.0.1.1
+Architecture: iphoneos-arm
+Maintainer: Nightwind
+Installed-Size: 552
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nightwind.folderartworkremade_0.0.1.1_iphoneos-arm.deb
+Size: 170042
+MD5sum: b0fb60936478616cec7572afc33f0614
+SHA1: feabfa776be8ba0a747e6c82c8694742a37891dd
+SHA256: b8dc73f156100acf079ff28be3e399a2be14ff205afc93cbd57d94a77bbf3e06
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Nightwind
+Name: FolderArtwork Remade
+
+Package: com.nightwind.folderartworkremade
+Version: 0.0.1.1
+Architecture: iphoneos-arm64
+Maintainer: Nightwind
+Installed-Size: 552
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nightwind.folderartworkremade_0.0.1.1_iphoneos-arm64.deb
+Size: 170236
+MD5sum: 1ca73694e33e4210332605c3b5ae1718
+SHA1: e5d328adb06c194543587739d364f8ea11227c56
+SHA256: b619c2cd4f7f51871d0ed097797fa04daf6ba59065dfe70b9929e59cd08d8af6
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Nightwind
+Name: FolderArtwork Remade
+
+Package: com.nightwind.lockbuttonx
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Nightwind
+Installed-Size: 144
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.nightwind.lockbuttonx_0.0.1_iphoneos-arm.deb
+Size: 11630
+MD5sum: 0f83dd83755b0d5b4e0d542bc930c91e
+SHA1: cac716c2736a927579758ff7b93699711285db46
+SHA256: 74724da120bcd7c5c5206079d6a275ab376f6cc219097b538d57d6443d6ddfba
+Section: Tweaks
+Description: Simple tweak to remap the long press of the power button on notched devices to the power menu instead of Siri.
+Author: Nightwind
+Icon: https://github.com/NightwindDev/LockButtonX/blob/main/Icon.png?raw=true
+Name: LockButtonX
+
+Package: com.nightwind.lockbuttonx
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Nightwind
+Installed-Size: 164
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.nightwind.lockbuttonx_0.0.1_iphoneos-arm64.deb
+Size: 17510
+MD5sum: aed631efa5bc37bea8aba1bf65baee15
+SHA1: a37b5b41570ced39e8f8a7334a65ad779a736220
+SHA256: 43473d4a7eecdc8e21b22cc8cd3ede6166f3d56f1144bca6b54347610e06a65a
+Section: Tweaks
+Description: Simple tweak to remap the long press of the power button on notched devices to the power menu instead of Siri.
+Author: Nightwind
+Icon: https://github.com/NightwindDev/LockButtonX/blob/main/Icon.png?raw=true
+Name: LockButtonX
+
+Package: com.nightwind.matchingiconlabels
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Nightwind
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nightwind.matchingiconlabels_0.0.1_iphoneos-arm.deb
+Size: 3478
+MD5sum: fccec6730227db5a41919fc2737c4222
+SHA1: 717da98e654dffb77614fde9657358b1e30baa6b
+SHA256: 85412baef16cf35749de08adddda0e8e8bc528829b8c70c0de42ae9cc416e32a
+Section: Tweaks
+Description: Match icon labels colors to their icons.
+Author: Nightwind
+Name: MatchingIconLabels
+
+Package: com.nightwind.matchingiconlabels
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Nightwind
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nightwind.matchingiconlabels_0.0.1_iphoneos-arm64.deb
+Size: 3554
+MD5sum: 14b78684c2367f1858793b9d958077db
+SHA1: fc37d7866982551f1e8554874e6213fc231d9455
+SHA256: 0b8e5d0bc7dbf035374a6562c30125dad70369f3d76ee40129cbe0a46a366236
+Section: Tweaks
+Description: Match icon labels colors to their icons.
+Author: Nightwind
+Name: MatchingIconLabels
+
+Package: com.nightwind.musicplayercolor
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Nightwind
+Installed-Size: 352
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0), com.mrgcgamer.libgcuniversal, preferenceloader
+Filename: ./debs/com.nightwind.musicplayercolor_0.0.1_iphoneos-arm64.deb
+Size: 15144
+MD5sum: 4294eb8f1afcd7745c42ac459e6df1b6
+SHA1: 92b13bb3c4b8ed2e94d50e4e46b3c0bf994cfc8f
+SHA256: 0413e716dbc7266d0a101a3ef497f9ad924066414120d31d6b59bfc4076368bf
+Section: Tweaks
+Description: Colorize the music player on iOS 16!
+Author: Nightwind
+Icon: https://github.com/NightwindDev/MusicPlayerColor/blob/main/icon.png?raw=true
+Name: MusicPlayerColor
+
+Package: com.nightwind.musicplayercolor
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Nightwind
+Installed-Size: 352
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0), com.mrgcgamer.libgcuniversal, preferenceloader
+Filename: ./debs/com.nightwind.musicplayercolor_0.0.1_iphoneos-arm.deb
+Size: 15078
+MD5sum: 94846c4b6895efc94cb072c5b133052a
+SHA1: 9228dfa20c67d13c58c7942ac77cb1742faec251
+SHA256: 69574cb1c197cf96de99d193e61cffcdfe6853b17651efcc819592571fe71658
+Section: Tweaks
+Description: Colorize the music player on the lockscreen on iOS 16!
+Author: Nightwind
+Icon: https://github.com/NightwindDev/MusicPlayerColor/blob/main/icon.png?raw=true
+Name: MusicPlayerColor
+
+Package: com.nightwind.musicplayercontrolscolor
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Nightwind
+Installed-Size: 364
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0), firmware (<< 17.0), com.mrgcgamer.libgcuniversal, preferenceloader
+Filename: ./debs/com.nightwind.musicplayercontrolscolor_0.0.1_iphoneos-arm.deb
+Size: 20180
+MD5sum: c03d4cfc9a461b38051a6b1392084c85
+SHA1: 985b1d35d30d94c556879ab2521d677ca6e32fc1
+SHA256: bbe04753ce983ce16b6d5d9ac3b72c0b2814465932c53e19a583c687ccf7e1af
+Section: Tweaks
+Description: Colorize the various elements of the music player on iOS 16!
+Author: Nightwind
+Icon: https://github.com/NightwindDev/MusicPlayerControlsColor/blob/main/icon.png?raw=true
+Name: MusicPlayerControlsColor
+
+Package: com.nightwind.musicplayercontrolscolor
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Nightwind
+Installed-Size: 364
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0), firmware (<< 17.0), com.mrgcgamer.libgcuniversal, preferenceloader
+Filename: ./debs/com.nightwind.musicplayercontrolscolor_0.0.1_iphoneos-arm64.deb
+Size: 20236
+MD5sum: f10671bc1da4a13aa76139166bfe7171
+SHA1: 105bb855f85526b86d49abea812a5dd0630688ce
+SHA256: 01383cd9ecf45edab8a024524febf4d66ac0234dea35b78ad57313c12a90f754
+Section: Tweaks
+Description: Colorize the various elements of the music player on iOS 16!
+Author: Nightwind
+Icon: https://github.com/NightwindDev/MusicPlayerControlsColor/blob/main/icon.png?raw=true
+Name: MusicPlayerControlsColor
+
+Package: com.nightwind.oldabichecker
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Nightwind
+Installed-Size: 68
+Filename: ./debs/com.nightwind.oldabichecker_0.0.1_iphoneos-arm.deb
+Size: 3512
+MD5sum: 5618f22cee08f56659335317def9e2ea
+SHA1: f0b58e5df71283ef6eaab0a0d03d97b73d128542
+SHA256: d176da64c949dbdc724e71776250645fc87382a489b84f35490f60fbeecbec2a
+Section: System
+Description: A tool to check whether an executable is compiled with the old or new arm64e ABI. Includes a Filza script for ease-of-use.
+Tag: role::hacker
+Author: Nightwind
+Name: oldabichecker
+
+Package: com.nightwind.oldabichecker
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Nightwind
+Installed-Size: 68
+Filename: ./debs/com.nightwind.oldabichecker_0.0.1_iphoneos-arm64.deb
+Size: 3582
+MD5sum: f7f5578141964c4fbb5f045f14c79aec
+SHA1: 10fb76847f1bb1cc6db6e6b7a700a63835f1cc63
+SHA256: 427e250a8460a0e8d1cad2cb72934f2e05245878d4e6031e9b6a5178760f71f8
+Section: System
+Description: A tool to check whether an executable is compiled with the old or new arm64e ABI. Includes a Filza script for ease-of-use.
+Tag: role::hacker
+Author: Nightwind
+Name: oldabichecker
+
+Package: com.nightwind.oldsettings
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Nightwind
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nightwind.oldsettings_0.0.1_iphoneos-arm64.deb
+Size: 3702
+MD5sum: 0899f32a5729ff4f071ac54ddcdb05c5
+SHA1: 09c4de90df65a374e998c5fe2c5d47dde24dd163
+SHA256: 14a48f4fd4a5dd21064aaa1344672cff1e4fa068e0dae2ec54107772dff3517c
+Section: Tweaks
+Description: Return your Settings app back to iOS 14!
+Author: Nightwind
+Name: OldSettings
+
+Package: com.nightwind.oldsettings
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Nightwind
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nightwind.oldsettings_0.0.1_iphoneos-arm.deb
+Size: 3644
+MD5sum: 611ee323dde8679f430f0cbc07058f29
+SHA1: 35396c6d077a56f5efd94dde34a8d3bb77843353
+SHA256: e9cd79e61d4cde31fe9400ebd96773f26afcf66ace2736b0d43b574b27ba3c08
+Section: Tweaks
+Description: Return your Settings app back to iOS 14!
+Author: Nightwind
+Name: OldSettings
+
+Package: com.nightwind.oldsettings
+Version: 0.0.1-experimental
+Architecture: iphoneos-arm
+Maintainer: Nightwind
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nightwind.oldsettings_0.0.1-experimental_iphoneos-arm.deb
+Size: 4236
+MD5sum: c7de9d2940a1115fe3f9b5de2f512d53
+SHA1: 285e8f5bbd26a1233fb6cb16f5d6b9cd6a2fee3d
+SHA256: a542f935f61750f9e0c17f960e42e8d21473529c206553c1d749f0e62b20147c
+Section: Tweaks
+Description: Return your Settings app back to iOS 14!
+Author: Nightwind
+Name: OldSettings
+
+Package: com.nightwind.oldsettings
+Version: 0.0.1-experimental
+Architecture: iphoneos-arm64
+Maintainer: Nightwind
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nightwind.oldsettings_0.0.1-experimental_iphoneos-arm64.deb
+Size: 4284
+MD5sum: a3db8326abae84940b1452dcb9128319
+SHA1: 6bc99adc4a49c10f5c5336026291cf1689ff0088
+SHA256: 085e1d73235931f5e56a3fd52f8420ef7e11ead2106b73d449ac19b4266421b5
+Section: Tweaks
+Description: Return your Settings app back to iOS 14!
+Author: Nightwind
+Name: OldSettings
+
+Package: com.nightwind.powersettings
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Nightwind
+Installed-Size: 232
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: ./debs/com.nightwind.powersettings_0.0.1_iphoneos-arm64.deb
+Size: 26046
+MD5sum: 625d89c6bfe69ecb302db2680c506e31
+SHA1: d12c1c8bf9196373974da81829b311cd53d0ded7
+SHA256: ae19d8a1c180cb943df410b55ad7ca77f3bbb14cbf5a75d025829d8e389d9a82
+Section: Tweaks
+Description: A simple tweak to add power settings to the Settings app.
+Author: Nightwind
+Icon: https://github.com/NightwindDev/PowerSettings/blob/main/Images/Icon.png?raw=true
+Name: PowerSettings
+
+Package: com.nightwind.powersettings
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Nightwind
+Installed-Size: 228
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: ./debs/com.nightwind.powersettings_0.0.1_iphoneos-arm.deb
+Size: 20628
+MD5sum: 48c792abf48f90b732a5681b42b55e7a
+SHA1: b4ec48bc4ba2e81458c9b64794fa9b24ba5ca467
+SHA256: 0b3729cc00dab7865389e5af5d7d0483ef2b7fe1a6f5a90f383b2bab6ce57de6
+Section: Tweaks
+Description: A simple tweak to add power settings to the Settings app.
+Author: Nightwind
+Icon: https://github.com/NightwindDev/PowerSettings/blob/main/Images/Icon.png?raw=true
+Name: PowerSettings
+
+Package: com.nightwind.recorddot
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Nightwind
+Installed-Size: 532
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nightwind.recorddot_0.0.1_iphoneos-arm.deb
+Size: 185800
+MD5sum: 320dbfba3e9476a30a2c721851d73cab
+SHA1: 025b22a8bd16e6957229d75ee2d0aae8dd499525
+SHA256: d9d3053aef0de262d8c056ddc8996ebaa1b33e7b711c84c231546337f5c2bc67
+Section: Tweaks
+Description: Make your screen recording pill a dot.
+Author: Nightwind
+Icon: https://github.com/NightwindDev/RecordDot/blob/main/recorddotprefs/Resources/icon@3.png?raw=true
+Name: RecordDot
+
+Package: com.nightwind.recorddot
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Nightwind
+Installed-Size: 532
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nightwind.recorddot_0.0.1_iphoneos-arm64.deb
+Size: 185938
+MD5sum: a19472aaa7ad6f4cfe75956d082ff774
+SHA1: 068c36c1d3a3c0ef8077bbd86725e6a542ab0c27
+SHA256: e691b481784a3bc0307003136f198f1ec39cddcca1e095c9e7d61b66234ced14
+Section: Tweaks
+Description: Make your screen recording pill a dot.
+Author: Nightwind
+Icon: https://github.com/NightwindDev/RecordDot/blob/main/recorddotprefs/Resources/icon@3.png?raw=true
+Name: RecordDot
+
+Package: com.nightwind.sileorespringfix
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Nightwind
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nightwind.sileorespringfix_0.0.1_iphoneos-arm64.deb
+Size: 4526
+MD5sum: ca0d0d62abd5d73ab7b2b21a07155558
+SHA1: 85887028c2fbb3b96fcce597d1b785124c66b139
+SHA256: 6ed1adcf587f9f4343727316d2e794419326aa2ad40b5319222fe9a059ff8be6
+Section: Tweaks
+Description: Changes "sbreload" in Sileo to "killall SpringBoard" to avoid a bug in Dopamine where a black screen happens.
+Author: Nightwind
+Name: SileoRespringFix
+
+Package: com.nightwind.swiggyjbbypass
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Nightwind
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nightwind.swiggyjbbypass_0.0.1_iphoneos-arm.deb
+Size: 3660
+MD5sum: d1af127837477e90dcaac9e9fc891cc7
+SHA1: e76569c956ee5714b00a7d643970873128881c1f
+SHA256: daaaee712c5877c66f659244747f8d8f5c129a075a884e4f38a7f13ae2459706
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Nightwind
+Name: SwiggyJBBypass
+
+Package: com.nightwind.swiggyjbbypass
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Nightwind
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nightwind.swiggyjbbypass_0.0.1_iphoneos-arm64.deb
+Size: 3718
+MD5sum: 1a780b17b65e8b354f7acba5e1c0046a
+SHA1: 04797e15ef8ad19589e3d36432acd39f4bde9e30
+SHA256: 1635e6a85d810bff34e6a20ce64efd0c7ead30bbb8e2dbeb3cdc161ae78a4d04
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Nightwind
+Name: SwiggyJBBypass
+
+Package: com.nightwind.visionsearchpill
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Nightwind
+Installed-Size: 540
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 16.0)
+Filename: ./debs/com.nightwind.visionsearchpill_0.0.1_iphoneos-arm.deb
+Size: 121704
+MD5sum: 9063c9214018f265e73d98ad84252166
+SHA1: faacddcdedfaf2e03f5adabc4760ccb3a353162f
+SHA256: 8b1106df3733cf618580d51f98f1edb523d2af7a6f0cb0298b922bd8d2a24285
+Section: Tweaks
+Description: Add a flare of visionOS to your search pill!
+Author: Nightwind
+Name: VisionSearchPill
+
+Package: com.nightwind.visionsearchpill
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Nightwind
+Installed-Size: 540
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 16.0)
+Filename: ./debs/com.nightwind.visionsearchpill_0.0.1_iphoneos-arm64.deb
+Size: 121790
+MD5sum: fe95d5132723cfaee71112b59121f2e9
+SHA1: f6d14d37871eb487db7c9d351fe65c8f4f1d5eba
+SHA256: ab0bd0c1094a1a2655703fb23913d5b0086f753769fea80f98463927bad2f1b9
+Section: Tweaks
+Description: Add a flare of visionOS to your search pill!
+Author: Nightwind
+Name: VisionSearchPill
+
+Package: daniel.old-lockscreen
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Nightwind
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/daniel.old-lockscreen_0.0.1_iphoneos-arm.deb
+Size: 4034
+MD5sum: dcf26bd2679023bb785e69e1f57e02ff
+SHA1: 6c654898a64a0627b8bd610c970357419b966a19
+SHA256: 544e670778bfa5fb6354963988f92bc1c3af65a3d593097bb9316a16c1274aa1
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: daniel
+Name: old-lockscreen
+
+Package: daniel.old-lockscreen
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Nightwind
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/daniel.old-lockscreen_0.0.1_iphoneos-arm64.deb
+Size: 4106
+MD5sum: 93c21341791a86d9be32c909334c33d5
+SHA1: 0c7c344d8132df18c1776b51ec620e8a1b56e2cb
+SHA256: 88f2a89f5ad60d695b1612b9ce2927182256032ec947e493a9d354625e1f3438
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: daniel
+Name: old-lockscreen
+
 Package: derootifierdepends
 Version: 1.0
 Architecture: iphoneos-arm64
