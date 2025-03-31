@@ -390,6 +390,38 @@ Description: Return your Settings app back to iOS 14!
 Author: Nightwind
 Name: OldSettings
 
+Package: com.nightwind.photosnoinfobutton
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Nightwind
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nightwind.photosnoinfobutton_0.0.1_iphoneos-arm64.deb
+Size: 4196
+MD5sum: 0e5ef5da6641b424145ee016664c2b92
+SHA1: 92fd0b6c6f05fab70f32b613444ac876bc4ea6be
+SHA256: bc444de9faf2ea8b6ab4692f5d5735e8d15a06f6107975b9b8056379845c6626
+Section: Tweaks
+Description: Hide the info button in the Photos app.
+Author: Nightwind
+Name: PhotosNoInfoButton
+
+Package: com.nightwind.photosnoinfobutton
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Nightwind
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nightwind.photosnoinfobutton_0.0.1_iphoneos-arm.deb
+Size: 4112
+MD5sum: f6f4c015ad7cd6166edd230aac49d86b
+SHA1: cd82b3c3e2fb0213eae68c56afcd4cb35f08982c
+SHA256: 97ac05d9e31064c0a5787043ed34cceabf21d5f3777d71b101d903af5c2ee84a
+Section: Tweaks
+Description: Hide the info button in the Photos app.
+Author: Nightwind
+Name: PhotosNoInfoButton
+
 Package: com.nightwind.powersettings
 Version: 0.0.1
 Architecture: iphoneos-arm64
