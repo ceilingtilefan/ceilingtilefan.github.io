@@ -96,6 +96,40 @@ Description: Clean up the downloaded music cells in the Apple Music app.
 Author: Nightwind
 Name: CleanerDownloadedMusic
 
+Package: com.nightwind.floatingsafari
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Nightwind
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/com.nightwind.floatingsafari_0.0.1_iphoneos-arm.deb
+Size: 8708
+MD5sum: 3cae1389a2067879c420d5836700be7c
+SHA1: 140cb14a320375c7526110d65112ea4d03c1be63
+SHA256: 8545fb3926076198320acd7c5ef0f0695fce071f524075b9a67462a8d7221890
+Section: Tweaks
+Description: Bring the iOS 15 beta Safari experience to newer iOS
+Author: Nightwind
+Icon: https://github.com/NightwindDev/FloatingSafari/blob/main/Images/Icon.png?raw=true
+Name: FloatingSafari
+
+Package: com.nightwind.floatingsafari
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Nightwind
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/com.nightwind.floatingsafari_0.0.1_iphoneos-arm64.deb
+Size: 8800
+MD5sum: 4295d63588378533f9b6d6b78ddcce36
+SHA1: cef828b526bb53e2ba20db1f30e746d3b47b2f63
+SHA256: 8aee189076aae38f45ac4bf3cea8a3bdc9da00af105301427cc6c9fcf1b6481b
+Section: Tweaks
+Description: Bring the iOS 15 beta Safari experience to newer iOS
+Author: Nightwind
+Icon: https://github.com/NightwindDev/FloatingSafari/blob/main/Images/Icon.png?raw=true
+Name: FloatingSafari
+
 Package: com.nightwind.folderartworkremade
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -159,6 +193,40 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: Nightwind
 Name: FolderArtwork Remade
+
+Package: com.nightwind.horizontalsliders
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Nightwind
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: ./debs/com.nightwind.horizontalsliders_0.0.1_iphoneos-arm.deb
+Size: 10392
+MD5sum: 682c0722047596fa9d08d0dd9868e4cd
+SHA1: d86526a6c7e65d42afc93e2b2ecb065993ea1c7b
+SHA256: 61e8fa2ec973c06f6f5eecfc113d30e95ec62aaee9656b0eef141c816030c1c0
+Section: Tweaks
+Description: Make the Control Center brightness and volume sliders horizontal.
+Author: Nightwind
+Icon: https://github.com/NightwindDev/HorizontalSliders/blob/main/Images/Icon.png?raw=true
+Name: HorizontalSliders
+
+Package: com.nightwind.horizontalsliders
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Nightwind
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: ./debs/com.nightwind.horizontalsliders_0.0.1_iphoneos-arm64.deb
+Size: 10468
+MD5sum: 51fc47323bfe3e55309ba2fc8d7293bb
+SHA1: 132f0ce87906229581a0a2b42c767ec545777e4e
+SHA256: 7ca9baedcfda7919200117942c3f249d249ad3ca70a1c6f7b6891bf56f4c19be
+Section: Tweaks
+Description: Make the Control Center brightness and volume sliders horizontal.
+Author: Nightwind
+Icon: https://github.com/NightwindDev/HorizontalSliders/blob/main/Images/Icon.png?raw=true
+Name: HorizontalSliders
 
 Package: com.nightwind.lockbuttonx
 Version: 0.0.1
