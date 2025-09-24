@@ -685,11 +685,27 @@ Version: 2.0
 Architecture: iphoneos-arm64
 Maintainer: TIMBOVILL
 Depends: com.anemonetheming.anemone | com.spark.snowboard
-Filename: ./debs/LiquidglAss.deb
+Filename: ./debs/com.timbovill.liquidglass_2.0_iphoneos-arm64.deb
 Size: 6228996
 MD5sum: b1bf0e0c35c52f8e5d205e878a005dc3
 SHA1: 40ea226463d4dfc4b3bf722e285bd193fd1988d9
 SHA256: 8b8da681e1e4c566e63e03dc806222dd631e05096e41c2ad3894d2d4d1e4c5e7
+Section: Themes
+Description: Liquid Glass icons on Snowboard!
+Author: TIMBOVILL, Apple
+Name: Liquid glAss
+Sileodepiction: https://ceilingtilefan.github.io/repo/depictions/com.timbovill.liquidglass/depiction.json
+
+Package: com.timbovill.liquidglass
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: TIMBOVILL
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: ./debs/com.timbovill.liquidglass_2.0_iphoneos-arm.deb
+Size: 6228944
+MD5sum: 7911b142000206a44bb0d22ea774e7b8
+SHA1: dcabab937b55469e7e20098737826381aa4c8a86
+SHA256: 0a161d4491aa0b5ce4ce140b38353fbaa989163a8fb4879516dbe00f54d1169a
 Section: Themes
 Description: Liquid Glass icons on Snowboard!
 Author: TIMBOVILL, Apple
